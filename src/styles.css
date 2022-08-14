@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+.MuiSwitch-track {
+  background-color: #e52d27 !important;
+}
